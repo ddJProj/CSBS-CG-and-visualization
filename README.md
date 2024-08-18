@@ -1,8 +1,10 @@
 # CS330 Computer Graphics and Visualization
 
 ### Brief video demonstration of the final 3D scene:
-Click the preview to visit the full youtube demo.
 [![CS330 - Final Scene](scene-preview.gif)](https://www.youtube.com/watch?v=bOR8THyTE8M)
+
+Click the preview to visit the full youtube demo.
+
 
 
 ## Justifying development choices for my 3D scene. Why I chose the selected objects. Considering how I was able to program for the required functionality:
