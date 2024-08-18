@@ -1,5 +1,9 @@
 # CS330 Computer Graphics and Visualization
 
+## Brief video demonstration of the final 3D scene:
+[![CS330 - Final Scene](https://img.youtube.com/vi/bOR8THyTE8M/0.jpg)](https://www.youtube.com/watch?v=bOR8THyTE8M)
+
+
 
 ## Justifying development choices for my 3D scene. Why I chose the selected objects. Considering how I was able to program for the required functionality:
 The objects that I selected to use in this project were the various component pieces that make up the greater ziggurat structure that is and was the Great Ziggurat of Ur located in modern day Iraq. This was a structure that was originally built in the early Bronze-Age by the Neo-Sumerian empire, also known as the third dynasty of Ur.
