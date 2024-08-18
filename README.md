@@ -1,8 +1,7 @@
 # CS330 Computer Graphics and Visualization
 
-## Brief video demonstration of the final 3D scene:
-[![CS330 - Final Scene](https://img.youtube.com/vi/bOR8THyTE8M/0.jpg)](https://www.youtube.com/watch?v=bOR8THyTE8M)
-
+### Brief video demonstration of the final 3D scene:
+[![CS330 - Final Scene](scene-preview.gif)](https://www.youtube.com/watch?v=bOR8THyTE8M)
 
 
 ## Justifying development choices for my 3D scene. Why I chose the selected objects. Considering how I was able to program for the required functionality:
