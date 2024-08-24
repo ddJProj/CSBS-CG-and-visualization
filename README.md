@@ -1,9 +1,9 @@
 # CS330 Computer Graphics and Visualization
 
 <br></br>
-
+<p>
 # 8-3 Journal - Portfolio Submission
-<br></br>
+
 
 
 ## How do I approach designing software?
@@ -46,7 +46,7 @@
 ## How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
 - There aren't any direct ways that I will be able to apply computer graphics and visualizations to my future professional pathway. That being said, I believe that learning about these complex topics, provides me with more general knowledge about how computational work can be created. I feel a higher degree of comfort going out and tackling difficult computer science topics, because I have had experience working with them in courses such as CS330. 
 
-
+</p>
 
 
 
@@ -57,11 +57,8 @@
 
 
 <br></br>
-
+<p>
 # CS330 Final Project
-<br></br>
-
-
 
 ### Brief video demonstration of the final 3D scene:
 [![CS330 - Final Scene](scene-preview.gif)](https://www.youtube.com/watch?v=bOR8THyTE8M)
@@ -95,7 +92,7 @@ I implemented several custom functions to reduce the amount of duplicate code ne
 - The last custom function that I added was the AddRamp method. The AddRamp function is an additional step to the shape configuration process, used exclusively for the right triangle prism shape configuration process. The same vector arguments that are used to call the configShape method are used to call the AddRamp method, with the exception of enum Shape shapeType argument being replaced by an enum Ramp rampType value. This method begins by setting up the positioning of the new ramp using the passed in x, y, and z scale values. It then assigns the rotational value for the new ramp based on the rampType enum parameter. The options for the rampTypes are standard, reversed, and perpendicular. Standard receives a -90 y rotational value, reversed receives a 90 degree y rotational value, and perpendicular receives a 180 degree y rotational value. The adjusted arguments are then used to call the configShape function, to finish the process of configuring the ramp. The drawShape function is then called at the end of the AddRamp function call, and no value is returned to the SceneRender method.
 
 
-
+</p>
 
 
 
