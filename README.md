@@ -3,6 +3,7 @@
 <br></br>
 
 # 8-3 Journal - Portfolio Submission
+<br></br>
 
 
 ## How do I approach designing software?
@@ -58,6 +59,7 @@
 <br></br>
 
 # CS330 Final Project
+<br></br>
 
 
 
