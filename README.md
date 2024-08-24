@@ -60,8 +60,10 @@
 
 
 <br></br>
-<p>
+
 # CS330 Final Project
+
+<p>
 
 ### Brief video demonstration of the final 3D scene:
 [![CS330 - Final Scene](scene-preview.gif)](https://www.youtube.com/watch?v=bOR8THyTE8M)
