@@ -1,4 +1,4 @@
-# CS330 Computer Graphics and Visualization
+### CS330 Computer Graphics and Visualization
 
 <br></br>
 
