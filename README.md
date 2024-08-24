@@ -6,47 +6,47 @@
 
 <p>
 
-## How do I approach designing software?
+### How do I approach designing software?
 
 
 
 - I approach designing software iteratively. I start out by figuring out the functionality that I need to create through my code. I then decompose that functionality into the behaviours that create said functionality. During this process, I typically write out pseudocode or empty placeholder functions for my program. I will then add some brief comments tying them all together. These functions are segmented and broken up by the behaviors that they perform. When I have all of the necessary functionality of my program written out, I then begin working through the functions working on the actual implementations. The implementation step is when I find out what areas of the program need to be refactored / further decomposed to better align with relevant coding standards.
  
-## What new design skills has your work on the project helped you to craft?
+### What new design skills has your work on the project helped you to craft?
 - My function design for the milestone assignments changed a few times over the course of this semester. The end product was two reusable functions that could manage the configuration of all loaded shapes. I don't think I learned anything new this semester as far as application design. Though, I did learn a great deal about how to process and program graphical images in C++. 
 
-## What design process did you follow for your project work?
+### What design process did you follow for your project work?
 - For the milestone assignments and the final project this semester my goal was design modular, reusable functions that could clean up the code that we were originally provided with. My primary focus with the code that I designed and added this semester was to remove the need to write duplicate code every time a shape was being configured and drawn. All of the configuration would be handled by a call to the respective configuration function, and which would then handle processing of the appropriate settings depending on the shape type. This was followed by a call to the draw function, which would then call the draw mesh function that corresponds to the selected shape type.
 
-## How could tactics from your design approach be applied in future work?
+### How could tactics from your design approach be applied in future work?
 - In my future work, I will continue to apply and refine my approach to program design. I believe that I have the principles down well, the primary thing that I am now lacking is experience in individual languages. This will come with time though, as I continue to learn and use new languages, patterns, and frameworks. I very much look forward to this process, as writing code is something I thoroughly enjoy.
 
 
-## How do I approach developing programs?
+### How do I approach developing programs?
 - As I mentioned previously, I design and develop programs iteratively. At least personally, I have found that there is a limitation to how far into the implementations I can plan before I need to start actually writing code. This will likely improve as I gain more experience developing software. I start out by writing out a higher level outline of the program that I am working on. I determine what value and functionality the program needs to create, and then I begin breaking that functionality down into smaller units. This continues until I reach a level where it no longer seems efficient to further isolate the functionality. This is typically when I get to the level of individual behaviors. Using the outlined functions, I then start filling out the implementation. I generally start with a higher level overview, leaving comments as placeholders for the code I will later add. I then I work out through the code, adding details and functionality using what I judge to be the most logical steps first.
 
   
-## What new development strategies did you use while working on your 3D scene?
+### What new development strategies did you use while working on your 3D scene?
 - For this semester, I did not deviate from my normal approach to development. My goal was to provide a modular, reusable function that I could use to clean up the various configuration and draw mesh function calls. I used switch statements contained within configuration functions to achieve this functionality. The configuration settings depended on the type of shape being configured.
 
   
-## How did iteration factor into your development?
+### How did iteration factor into your development?
 - How I factored iteration into my development, is that I refactored my approaches to the scene configuration and design with each milestone assignment. I initially was using a function that only handled the configuration of my custom square frustum shape mesh before drawing. As we worked through the milestones, I then reworked this function to be able to handle all shape meshes. This was done because the RenderShape function was becoming quite long, and it hindered the readability of the code. The final version consolidates the various configuration values into named vectors that are then passed as a parameter to the configuration function.
 
   
-## How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+### How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
 - My coding approach primarily evolved through the milestones in that I refactored the ways in which I was configuring and then drawing each of the shapes. Once we reached the milestone stage where we were needing to configure the materials of each shape mesh that we were drawing, I decided that it would be a better idea to handle this configuration with a separate function. This allowed me to isolate all of the related functionality for preparing a mesh to be drawn. In a way this also was providing a default set of values for each type of shape. I could then choose to change the material of a shape mesh right before the draw mesh function call if needed.
 
   
-## How can computer science help me in reaching my goals?
+### How can computer science help me in reaching my goals?
 - Computer science is the means by which I will be able to perform work in my future career. Understanding how computers function, and how I can use them to accomplish work is something that is incredibly valuable to me.
 
   
-## How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+### How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
 - I don't foresee any direct ways that I will be using computational graphics and visualizations in my career. That being said I would like to work on personal projects when I have the time that would involve using computational graphics and visualizations. These primarily would be tools that could be used to visually render physics based environments.
 
   
-## How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+### How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
 - There aren't any direct ways that I will be able to apply computer graphics and visualizations to my future professional pathway. That being said, I believe that learning about these complex topics, provides me with more general knowledge about how computational work can be created. I feel a higher degree of comfort going out and tackling difficult computer science topics, because I have had experience working with them in courses such as CS330. 
 
 </p>
