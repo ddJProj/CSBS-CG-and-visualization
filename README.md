@@ -5,7 +5,11 @@
 # 8-3 Journal - Portfolio Submission
 
 <p>
+
 ## How do I approach designing software?
+
+
+
 - I approach designing software iteratively. I start out by figuring out the functionality that I need to create through my code. I then decompose that functionality into the behaviours that create said functionality. During this process, I typically write out pseudocode or empty placeholder functions for my program. I will then add some brief comments tying them all together. These functions are segmented and broken up by the behaviors that they perform. When I have all of the necessary functionality of my program written out, I then begin working through the functions working on the actual implementations. The implementation step is when I find out what areas of the program need to be refactored / further decomposed to better align with relevant coding standards.
  
 ## What new design skills has your work on the project helped you to craft?
