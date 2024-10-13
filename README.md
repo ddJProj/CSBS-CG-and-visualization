@@ -1,5 +1,5 @@
 
-# CS330 Final Project
+# CS330 - Computer Graphics and Visualization - Final Project
 
 <p>
 
