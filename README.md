@@ -1,7 +1,5 @@
 ### CS330 Computer Graphics and Visualization
 
-<br></br>
-
 <p>
 
 ### How do I approach designing software?
