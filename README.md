@@ -2,8 +2,6 @@
 
 <br></br>
 
-# 8-3 Journal - Portfolio Submission
-
 <p>
 
 ### How do I approach designing software?
