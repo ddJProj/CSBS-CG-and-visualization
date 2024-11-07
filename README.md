@@ -1,10 +1,10 @@
 
-# CS330 - Computer Graphics and Visualization - Final Project
+# Computer Graphics and Visualization course - Final Project
 
 <p>
 
 ### Brief video demonstration of the final 3D scene:
-[![CS330 - Final Scene](scene-preview.gif)](https://www.youtube.com/watch?v=bOR8THyTE8M)
+[![Final Scene](scene-preview.gif)](https://www.youtube.com/watch?v=bOR8THyTE8M)
 
 Click the preview to visit the full youtube demo.
 
