@@ -43,7 +43,7 @@ I implemented several custom functions to reduce the amount of duplicate code ne
 <br></br>
 
 
-# CS330 Computer Graphics and Visualization - Reflection
+# Course Reflection:
 
 <p>
 
